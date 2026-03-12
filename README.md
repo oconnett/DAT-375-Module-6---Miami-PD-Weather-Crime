@@ -5,7 +5,7 @@ This project focuses on a set of data, provided by the Miami Police Department, 
 
 _**Results & Analysis**_
 
-An excel dashboard was create to display key information that was requested by Miami PD for their provided data set. Results included are that the City of Miami made up for the larget amount of reported crime in the year with 178 instances of reported crime, The largest type of reported crime was theft, months during hurricane season accounted for the highest amount of reported crimes with October being the highest, and within October, the highest reported crime type was theft, followed by burglary then criminal mischief. Therefore, it would be recommened that the Miami PD allocate additional resources and funding for the City of Miami during the hurrican season to combat instances of theft, with additional minor resources for other crimes such as burglary and criminal mischief.
+An excel dashboard was create to display key information that was requested by Miami PD for their provided data set. Results included are that the City of Miami made up for the larget amount of reported crime in the year with 178 instances of reported crime, The largest type of reported crime was theft, months during hurricane season accounted for the highest amount of reported crimes with October being the highest, and within October, the highest reported crime type was theft, followed by burglary then criminal mischief. Therefore, it would be recommened that the Miami PD allocate additional resources and funding for the City of Miami during the hurricane season to combat instances of theft. Additional minor resources for other crimes such as burglary and criminal mischief would be recommened for further focusing.
 
 ![Miami Crime Report 2019](crime_report2019.png)
 
